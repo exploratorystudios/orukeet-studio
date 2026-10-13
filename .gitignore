@@ -1,0 +1,42 @@
+# Python environments and generated files
+.venv*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+
+# Local models, project data, and personal media
+/models/
+/projects/
+/exports/
+/videos/
+/voice_samples/
+/installation.json
+*.orukeet
+*.gguf
+*.nemo
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log

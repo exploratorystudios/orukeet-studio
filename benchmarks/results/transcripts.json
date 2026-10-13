@@ -1,0 +1,34 @@
+{
+  "cpu": {
+    "text": "Welcome to Orikeet Studio. This is a test of the speech generation pipeline.",
+    "segments": [
+      {
+        "text": "Welcome to Orikeet Studio.",
+        "start": 0.0,
+        "end": 1.92
+      },
+      {
+        "text": "This is a test of the speech generation pipeline.",
+        "start": 1.92,
+        "end": 4.4
+      }
+    ],
+    "language": null
+  },
+  "cuda": {
+    "text": "Welcome to Orikeet Studio. This is a test of the speech generation pipeline.",
+    "segments": [
+      {
+        "text": "Welcome to Orikeet Studio.",
+        "start": 0.0,
+        "end": 1.92
+      },
+      {
+        "text": "This is a test of the speech generation pipeline.",
+        "start": 1.92,
+        "end": 4.48
+      }
+    ],
+    "language": null
+  }
+}
